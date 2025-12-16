@@ -76,7 +76,7 @@ python main.py
 
 - Python 3.8 or higher
 - pip package manager
-- Keplers.email account with SMTP or API credentials
+- [Keplers.email](https://keplers.email/) account with SMTP or API credentials
 
 ## Support
 
